@@ -13,4 +13,4 @@ A web application that shows current time of different countries.
 - JavaScript
 
 ## How to Run
-Open project.html in browser
+Open index.html in browser
